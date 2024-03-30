@@ -1,15 +1,15 @@
 # Maintainer: Bruno Goncalves <bigbruno@gmail.com>
 
-pkgname=big-plasma-theme-colloided
+pkgname=big-theme-colloided-adwaita
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
 arch=('any')
 license=('GPL')
-url="https://github.com/biglinux/big-plasma-theme-colloided"
+url="https://github.com/biglinux/big-theme-colloided-adwaita"
 pkgdesc="Modified version of plasma desktop theme for Plasma 6 with changes to better usage without blur effect.
 
 Dependencies are not included so it can be installed in versions without plasma. For full support you need: kvantum and klassy"
-source=("git+https://github.com/biglinux/big-plasma-theme-colloided.git")
+source=("git+https://github.com/biglinux/big-theme-colloided-adwaita.git")
 md5sums=(SKIP)
 if [ -e "${pkgname}.install" ];then
     install=${pkgname}.install
