@@ -6,7 +6,9 @@ pkgrel=$(date +%H%M)
 arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/big-plasma-theme-colloided"
-pkgdesc="Modified version of plasma desktop theme for Plasma 6 with changes to better usage without blur effect."
+pkgdesc="Modified version of plasma desktop theme for Plasma 6 with changes to better usage without blur effect.
+
+Dependencies are not included so it can be installed in versions without plasma. For full support you need: kvantum and klassy"
 source=("git+https://github.com/biglinux/big-plasma-theme-colloided.git")
 md5sums=(SKIP)
 if [ -e "${pkgname}.install" ];then
