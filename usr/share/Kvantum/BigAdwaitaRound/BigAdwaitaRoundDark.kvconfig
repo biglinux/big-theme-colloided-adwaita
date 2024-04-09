@@ -73,6 +73,8 @@ drag_from_buttons=false
 
 [GeneralColors]
 base.color=#2c2c2c
+highlight.color=#344c69
+inactive.highlight.color=#344c69
 highlight.text.color=#ffffff
 inactive.highlight.text.color=#ffffff90
 inactive.text.color=#ffffff
