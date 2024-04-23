@@ -135,8 +135,6 @@ frame.expansion=0
 
 [ToolbarButton]
 frame=false
-frame.element=tbutton
-interior.element=tbutton
 frame.top=0
 frame.bottom=0
 
