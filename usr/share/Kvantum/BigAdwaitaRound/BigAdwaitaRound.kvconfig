@@ -128,6 +128,10 @@ text.bold=false
 indicator.element=arrow
 indicator.size=0
 frame.expansion=0
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 
 [ToolbarButton]
 frame=false
