@@ -131,6 +131,10 @@ text.disabled.color=#1e1e1e74
 text.bold=false
 indicator.element=arrow
 frame.expansion=0
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 
 [ToolbarButton]
 frame=false
