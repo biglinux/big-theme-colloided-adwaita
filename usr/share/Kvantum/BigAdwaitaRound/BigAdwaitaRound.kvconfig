@@ -127,10 +127,6 @@ text.disabled.color=#1e1e1e74
 text.bold=false
 indicator.element=arrow
 frame.expansion=0
-frame.top=8
-frame.bottom=8
-frame.left=8
-frame.right=8
 
 [ToolbarButton]
 frame=false
