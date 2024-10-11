@@ -79,7 +79,7 @@ highlight.text.color=#ffffff
 inactive.highlight.text.color=#ffffff90
 inactive.text.color=#ffffff
 link.color=#009DFF
-window.text.color=#dfdfdf
+window.text.color=#ffffff
 
 [Hacks]
 transparent_ktitle_label=true
