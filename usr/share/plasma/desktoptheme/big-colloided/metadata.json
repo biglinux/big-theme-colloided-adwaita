@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "bigbruno@gmail.com",
+                "Name": "Bruno Goncalves from BiGiBorg"
+            }
+        ],
+        "Category": "",
+        "Description": "Modified version by Bruno Gonçalves of the original Colloid theme by Vince ",
+        "EnabledByDefault": true,
+        "Id": "default",
+        "License": "LGPL",
+        "Name": "Big-Colloided",
+        "Version": "6.5.0",
+        "Website": "https://www.biglinux.com.br/"
+    },
+    "X-Plasma-API": "5.0"
+}
