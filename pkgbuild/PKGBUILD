@@ -5,6 +5,7 @@ pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
 arch=('any')
 license=('GPL')
+depends=('adw-gtk-theme')
 url="https://github.com/biglinux/big-theme-colloided-adwaita"
 pkgdesc="Modified version of plasma desktop theme for Plasma 6 with changes to better usage without blur effect.
 
