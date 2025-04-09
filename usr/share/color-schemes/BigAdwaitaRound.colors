@@ -100,7 +100,7 @@ ForegroundVisited=69,40,134
 
 [General]
 ColorScheme=KvGnomeAltBig
-Name=BigAdwaitaRound
+Name=BigAdwaitaRound6
 shadeSortColumn=true
 
 [KDE]
@@ -110,6 +110,6 @@ contrast=0
 activeBackground=235,235,235
 activeBlend=255,0,0
 activeForeground=0,0,0
-inactiveBackground=250,250,250
+inactiveBackground=242,242,242
 inactiveBlend=235,235,235
 inactiveForeground=104,108,111
