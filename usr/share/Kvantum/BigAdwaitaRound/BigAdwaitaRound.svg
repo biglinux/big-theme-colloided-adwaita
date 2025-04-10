@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.8686788"
-     inkscape:cx="342.89211"
-     inkscape:cy="380.55274"
+     inkscape:zoom="2.664916"
+     inkscape:cx="313.70595"
+     inkscape:cy="407.89279"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="0"
@@ -3206,14 +3206,14 @@
   <g
      fill="#fafafa"
      id="g185"
-     style="fill:#f8f8f8;fill-opacity:1">
+     style="fill:#f2f2f2;fill-opacity:1">
     <rect
        id="menubar-normal-inactive"
        x="342.53"
        y="359.27"
        width="20"
        height="20"
-       style="fill:#f8f8f8;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1" />
     <rect
        id="menubar-normal-inactive-left"
        transform="rotate(90)"
@@ -3221,7 +3221,7 @@
        y="-342.53"
        width="20"
        height="5"
-       style="fill:#f8f8f8;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1" />
     <rect
        id="menubar-normal-inactive-topleft"
        transform="rotate(90)"
@@ -3229,14 +3229,14 @@
        y="-342.53"
        width="5"
        height="5"
-       style="fill:#f8f8f8;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1" />
     <rect
        id="menubar-normal-inactive-top"
        x="342.53"
        y="354.27"
        width="20"
        height="5"
-       style="fill:#f8f8f8;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1" />
     <rect
        id="menubar-normal-inactive-right"
        transform="rotate(90)"
@@ -3244,7 +3244,7 @@
        y="-367.53"
        width="20"
        height="5"
-       style="fill:#f8f8f8;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1" />
     <rect
        id="menubar-normal-inactive-topright"
        transform="rotate(90)"
@@ -3252,7 +3252,7 @@
        y="-367.53"
        width="5"
        height="5"
-       style="fill:#f8f8f8;fill-opacity:1" />
+       style="fill:#f2f2f2;fill-opacity:1" />
   </g>
   <g
      id="menubar-normal-inactive-bottomleft"
