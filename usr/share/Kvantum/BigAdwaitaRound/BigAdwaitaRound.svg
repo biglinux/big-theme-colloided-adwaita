@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.7295562"
-     inkscape:cx="364.44525"
-     inkscape:cy="853.47721"
+     inkscape:zoom="5.4656216"
+     inkscape:cx="238.76516"
+     inkscape:cy="930.90967"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="0"
@@ -150,15 +150,11 @@
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#fff"
-         offset=".49842"
+         offset="0.70155948"
          id="stop11" />
       <stop
-         stop-color="#fafafa"
-         offset=".8565"
-         id="stop12" />
-      <stop
          stop-color="#f5f5f5"
-         offset=".91804"
+         offset="0.96900451"
          id="stop13" />
       <stop
          stop-color="#ebebeb"
@@ -178,9 +174,15 @@
          offset=".85387"
          id="stop15" />
       <stop
+         stop-color="#fff"
+         offset="0.96896696"
+         id="stop12"
+         style="stop-color:#f5f5f5;stop-opacity:1;" />
+      <stop
          stop-color="#fafafa"
          offset="1"
-         id="stop16" />
+         id="stop16"
+         style="stop-color:#f2f2f3;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -2869,7 +2871,7 @@
   <g
      id="common-normal-top"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        transform="scale(1,-1)"
        d="m610-369.03h40v1h-40z"
@@ -2887,7 +2889,7 @@
   <g
      id="common-normal-topleft"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        d="m609 368.03c-1.1017 0-0.99736-0.10427-0.99736 0.99736h0.99736z"
        opacity=".07"
@@ -2896,7 +2898,7 @@
   <g
      id="common-normal-topright"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        d="m651 368.03c1.1016 0 0.99736-0.10427 0.99736 0.99736h-0.99736z"
        opacity=".07"
@@ -2905,7 +2907,7 @@
   <g
      id="common-normal-left"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        transform="matrix(0,-1,-1,0,0,0)"
        d="m-410.03-609h40v0.99998h-40z"
@@ -2915,7 +2917,7 @@
   <g
      id="common-normal-right"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        transform="matrix(0,1,1,0,0,0)"
        d="m370.03 651h40v1h-40z"
@@ -2925,7 +2927,7 @@
   <g
      id="common-normal-bottom"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        d="m610 411.03h40v0.99986h-40z"
        opacity=".07"
@@ -2934,7 +2936,7 @@
   <g
      id="common-normal-bottomleft"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        d="m609 412.03c-1.1017 0-0.99736 0.10447-0.99736-0.99735h0.99736z"
        opacity=".07"
@@ -2943,7 +2945,7 @@
   <g
      id="common-normal-bottomright"
      transform="translate(-372 536.97)"
-     style="opacity:0.7">
+     style="opacity:0.8">
     <path
        d="m651 412.03c1.1016 0 0.99736 0.10447 0.99736-0.99735h-0.99736z"
        opacity=".07"
