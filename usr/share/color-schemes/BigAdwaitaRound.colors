@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=210,210,210
-BackgroundNormal=235,235,235
+BackgroundNormal=235,235,236
 DecorationFocus=61,174,233
 DecorationHover=142,203,233
 ForegroundActive=255,128,224
@@ -100,16 +100,16 @@ ForegroundVisited=69,40,134
 
 [General]
 ColorScheme=KvGnomeAltBig
-Name=BigAdwaitaRound6
+Name=BigAdwaitaRound9
 shadeSortColumn=true
 
 [KDE]
 contrast=0
 
 [WM]
-activeBackground=235,235,235
+activeBackground=235,235,236
 activeBlend=255,0,0
 activeForeground=0,0,0
 inactiveBackground=242,242,242
-inactiveBlend=235,235,235
+inactiveBlend=235,235,236
 inactiveForeground=104,108,111
