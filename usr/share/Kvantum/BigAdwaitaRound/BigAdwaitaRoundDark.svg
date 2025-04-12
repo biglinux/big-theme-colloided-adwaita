@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="5.6926128"
-     inkscape:cx="233.98746"
-     inkscape:cy="919.43721"
+     inkscape:cx="426.86901"
+     inkscape:cy="866.21033"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="0"
@@ -154,17 +154,17 @@
          stop-color="#242424"
          offset="0.70256186"
          id="stop11"
-         style="stop-color:#18181c;stop-opacity:1;" />
+         style="stop-color:#1d1d20;stop-opacity:1;" />
       <stop
          stop-color="#262626"
          offset="0.968009"
          id="stop12"
-         style="stop-color:#212123;stop-opacity:1;" />
+         style="stop-color:#222226;stop-opacity:1;" />
       <stop
          stop-color="#2c2c2c"
          offset="1"
          id="stop13"
-         style="stop-color:#2b2b2f;stop-opacity:1;" />
+         style="stop-color:#2a2a2e;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient12"

@@ -86,7 +86,7 @@ ForegroundVisited=179,179,179
 
 [Colors:Window]
 BackgroundAlternate=36,36,36
-BackgroundNormal=24,24,28
+BackgroundNormal=29,29,32
 DecorationFocus=120,174,237
 DecorationHover=53,132,228
 ForegroundActive=53,132,228
@@ -100,7 +100,7 @@ ForegroundVisited=179,179,179
 
 [General]
 ColorScheme=KvGnomeAltBig
-Name=BigAdwaitaRoundDark10
+Name=BigAdwaitaRoundDark12
 shadeSortColumn=true
 
 [KDE]
