@@ -176,8 +176,9 @@
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#242424"
-         offset=".85387"
-         id="stop14" />
+         offset="0.85386997"
+         id="stop14"
+         style="stop-color:#1d1d20;stop-opacity:1;" />
       <stop
          stop-color="#242424"
          offset="1"
