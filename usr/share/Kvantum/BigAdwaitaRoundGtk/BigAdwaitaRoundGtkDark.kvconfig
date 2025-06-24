@@ -80,6 +80,8 @@ inactive.highlight.text.color=#ffffff90
 inactive.text.color=#ffffff
 link.color=#009DFF
 window.text.color=#ffffff
+button.text.color=#ffffff
+text.color=#ffffff
 
 [Hacks]
 transparent_ktitle_label=true
