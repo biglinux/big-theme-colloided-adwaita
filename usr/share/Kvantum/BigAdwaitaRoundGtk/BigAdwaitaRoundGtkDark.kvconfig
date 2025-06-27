@@ -72,16 +72,25 @@ shadowless_popup=false
 drag_from_buttons=false
 
 [GeneralColors]
+window.color=#2c2c2c
 base.color=#2c2c2c
+alt.base.color=#3c434f
+button.color=#414654
+light.color=#5f677f
+mid.light.color=#313131
+dark.color=black
+mid.color=#191919
 highlight.color=#344c69
-inactive.highlight.color=#344c69
-highlight.text.color=#ffffff
-inactive.highlight.text.color=#ffffff90
-inactive.text.color=#ffffff
+inactive.highlight.color=#5294e2
+text.color=#ffffffc8
+window.text.color=#ffffffc8
+button.text.color=#ffffffc8
+disabled.text.color=#ffffff73
+tooltip.text.color=#eefcff
+highlight.text.color=white
 link.color=#009DFF
-window.text.color=#ffffff
-button.text.color=#ffffff
-text.color=#ffffff
+link.visited.color=#9E4FFF
+progress.indicator.text.color=white
 
 [Hacks]
 transparent_ktitle_label=true
