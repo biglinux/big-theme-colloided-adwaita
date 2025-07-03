@@ -5,7 +5,7 @@
    version="1"
    id="svg414"
    sodipodi:docname="BigAdwaitaRoundDark.svg"
-   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,11 +20,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="5.6926128"
-     inkscape:cx="426.86901"
-     inkscape:cy="866.21033"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:zoom="1.4231532"
+     inkscape:cx="581.10399"
+     inkscape:cy="874.11531"
+     inkscape:window-width="2560"
+     inkscape:window-height="1231"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3237,11 +3237,13 @@
   <path
      id="window-normal"
      d="m380 844.26v-30h30v30z"
-     fill="url(#linearGradient2)" />
+     fill="url(#linearGradient2)"
+     style="fill:#1d1d20;fill-opacity:1" />
   <path
      id="window-normal-inactive"
      d="m412 844.26v-30h30v30z"
-     fill="url(#linearGradient12)" />
+     fill="url(#linearGradient12)"
+     style="fill:#1d1d20;fill-opacity:1" />
   <g
      fill="#2c2c2c"
      id="g181"
