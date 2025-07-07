@@ -99,8 +99,8 @@ ForegroundPositive=143,240,164
 ForegroundVisited=179,179,179
 
 [General]
-ColorScheme=KvGnomeAltBig
-Name=BigAdwaitaRoundDark12
+ColorScheme=BigAdwaitaRoundDark-old
+Name=Big Adwaita Round Dark Old
 shadeSortColumn=true
 
 [KDE]
