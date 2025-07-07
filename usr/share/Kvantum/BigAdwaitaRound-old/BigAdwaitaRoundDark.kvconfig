@@ -1,5 +1,5 @@
 [%General]
-author=Bruno Gonçalves, based on Colloid by Vince Liuice, based on KvAdapta by Tsu Jan
+author=Vince Liuice, based on KvAdapta by Tsu Jan
 comment=An uncomplicated theme inspired by the Materia GTK theme
 x11drag=all
 alt_mnemonic=true
@@ -42,13 +42,14 @@ large_icon_size=32
 button_icon_size=16
 toolbar_icon_size=16
 combo_as_lineedit=true
+animate_states=true
 button_contents_shift=false
 combo_menu=true
 hide_combo_checkboxes=true
 combo_focus_rect=false
 groupbox_top_label=true
 inline_spin_indicators=true
-joined_inactive_tabs=false
+joined_inactive_tabs=true
 layout_spacing=4
 layout_margin=4
 scrollbar_in_view=false
@@ -70,48 +71,21 @@ dialog_button_layout=0
 shadowless_popup=false
 drag_from_buttons=false
 
-
 [GeneralColors]
-// Window and Base Surfaces (Adwaita Light)
-//window.color=#fafafa
-//inactive.window.color=#fafafa
-//base.color=#ffffff
-//inactive.base.color=#ffffff
-//alt.base.color=#f3f3f3
-//inactive.alt.base.color=#f6f6f6
-
-// Buttons and Interactive Elements (Adwaita Light)
-//button.color=#f0f0f0
-//light.color=#ffffff
-//mid.light.color=#f6f5f4
-//dark.color=#c0bfbc
-//mid.color=#deddda
-
-// Highlight & Accent (Adwaita Blue)
-//highlight.color=#deddda
-//inactive.highlight.color=#c0bfbc
-
-// Tooltips (Kept dark for readability, a common design choice)
-//tooltip.base.color=#3d3846
-//tooltip.text.color=#ffffff
-
-// Text & Content (Adwaita Light)
-//text.color=rgba(0,0,0,0.8)
-//inactive.text.color=#5e5c64
-//window.text.color=rgba(0,0,0,0.8)
-//inactive.window.text.color=#5e5c64
-//button.text.color=rgba(0,0,0,0.8)
-//disabled.text.color=#9a9996
-//highlight.text.color=#000000
-//inactive.highlight.text.color=#ffffff
-
-// Links (Adwaita Light)
-link.color=#1c71d8
-link.visited.color=#9141ac
+base.color=#2b2b2f
+highlight.color=#344c69
+inactive.highlight.color=#344c69
+highlight.text.color=#ffffff
+inactive.highlight.text.color=#ffffff90
+inactive.text.color=#ffffff
+link.color=#009DFF
+window.text.color=#ffffff
+button.text.color=#ffffff
+text.color=#ffffff
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=false
+transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=false
 transparent_menutitle=true
@@ -125,7 +99,7 @@ lxqtmainmenu_iconsize=16
 normal_default_pushbutton=true
 single_top_toolbar=true
 tint_on_mouseover=0
-transparent_pcmanfm_view=false
+transparent_pcmanfm_view=true
 no_selection_tint=false
 transparent_arrow_button=true
 middle_click_scroll=false
@@ -140,10 +114,10 @@ blur_only_active_window=false
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=6
-frame.bottom=6
-frame.left=7
-frame.right=7
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
 interior=true
 interior.element=button
 indicator.size=8
@@ -225,7 +199,7 @@ frame.patternsize=14
 
 [GenericFrame]
 inherits=PanelButtonCommand
-frame=false
+frame=true
 interior=false
 frame.element=common
 interior.element=common
@@ -254,8 +228,6 @@ interior.element=lineedit
 [DropDownButton]
 inherits=PanelButtonCommand
 indicator.element=arrow-down
-interior=true
-interior.element=button
 
 [IndicatorArrow]
 indicator.element=arrow
@@ -268,17 +240,17 @@ inherits=PanelButtonCommand
 inherits=PanelButtonCommand
 focusFrame=true
 interior.element=tab
-text.margin.left=7
-text.margin.right=7
+text.margin.left=8
+text.margin.right=8
 text.margin.top=0
 text.margin.bottom=0
 frame.element=tab
 indicator.element=tab
 indicator.size=22
-frame.top=9
-frame.bottom=9
-frame.left=9
-frame.right=9
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 frame.expansion=0
 text.bold=false
 
@@ -286,15 +258,10 @@ text.bold=false
 inherits=PanelButtonCommand
 frame.element=tabframe
 interior.element=tabframe
-interior=true
-frame.top=16
-frame.bottom=16
-frame.left=16
-frame.right=16
-margin.top=5
-margin.bottom=5
-margin.left=5
-margin.right=5
+frame.top=24
+frame.bottom=24
+frame.left=24
+frame.right=24
 
 [TreeExpander]
 inherits=PanelButtonCommand
@@ -305,7 +272,7 @@ indicator.element=tree
 inherits=PanelButtonCommand
 interior.element=header
 frame.element=header
-frame.top=1
+frame.top=0
 frame.bottom=1
 frame.left=1
 frame.right=1
@@ -320,7 +287,12 @@ indicator.element=toolbar
 indicator.size=5
 text.margin=0
 interior.element=menubar
-frame=false
+frame.element=menubar
+frame.left=0
+frame.right=0
+frame.top=0
+frame.bottom=1
+frame.expansion=0
 
 [Slider]
 inherits=PanelButtonCommand
@@ -352,6 +324,7 @@ interior.element=progress-pattern
 
 [ItemView]
 inherits=PanelButtonCommand
+text.margin=0
 frame.element=itemview
 interior.element=itemview
 frame.top=4
@@ -364,8 +337,9 @@ text.margin.left=8
 text.margin.right=8
 min_width=+0.3font
 min_height=+0.3font
-frame.expansion=0
-text.toggle.color=#000000
+frame.expansion=1
+text.toggle.inactive.color=#ffffff90
+text.toggle.color=#fafafa
 
 [Splitter]
 frame=true
@@ -411,12 +385,12 @@ frame=true
 frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
-text.margin.top=0
-text.margin.bottom=0
+text.margin.top=5
+text.margin.bottom=5
 text.margin.left=6
 text.margin.right=6
-frame.top=5
-frame.bottom=5
+frame.top=0
+frame.bottom=0
 frame.left=12
 frame.right=12
 text.bold=false
@@ -458,6 +432,7 @@ indicator.size=16
 indicator.element=mdi
 text.bold=false
 text.italic=true
+frame.expansion=0
 
 [ComboBox]
 inherits=PanelButtonCommand
@@ -481,27 +456,29 @@ text.bold=false
 frame.expansion=0
 
 [TabBarFrame]
-frame.left=0
-frame.right=0
+inherits=GenericFrame
+frame=false
+interior=false
 
 [ToolTip]
 inherits=GenericFrame
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 interior=true
-frame=true
 text.shadow=0
 text.margin=0
 interior.element=tooltip
 frame.element=tooltip
 frame.expansion=0
-frame.top=14
-frame.bottom=14
-frame.left=14
-frame.right=14
 
 [StatusBar]
+interior.element=window
 frame=false
-interior=false
+interior=true
 
 [Window]
-interior=false
+interior=true
+interior.element=window
 frame=false
