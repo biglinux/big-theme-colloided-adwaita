@@ -22,7 +22,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="6.3536782"
      inkscape:cx="94.354794"
-     inkscape:cy="124.02265"
+     inkscape:cy="96.479548"
      inkscape:window-width="2048"
      inkscape:window-height="1083"
      inkscape:window-x="0"
@@ -1030,17 +1030,19 @@
      id="header-pressed"
      d="m146 104.88h-6v6h6z"
      opacity="0"
-     style="opacity:0.1" />
+     style="opacity:0.4;fill:#828282;fill-opacity:1" />
   <path
      id="header-toggled"
      d="m124 104.88h-6v6h6z"
      fill="#fff"
-     opacity=".15" />
+     opacity=".15"
+     style="opacity:0.01" />
   <path
      id="header-focused"
      d="m108 104.88h-6v6h6z"
      fill="#fff"
-     opacity=".1" />
+     opacity=".1"
+     style="opacity:0.01" />
   <g
      id="tarrow-right-normal"
      transform="translate(-163 -248)">
@@ -3261,43 +3263,43 @@
        id="header-normal-bottom"
        d="m78 116.88h-6v6h6z"
        opacity=".12"
-       style="fill:#4d4d4d;fill-opacity:1;opacity:1" />
+       style="fill:#666666;fill-opacity:1;opacity:1" />
     <path
        id="header-normal-bottomleft"
        d="m84 116.88h-6v6h6z"
        opacity=".12"
-       style="fill:#4d4d4d;fill-opacity:1;opacity:1" />
+       style="fill:#666666;fill-opacity:1;opacity:1" />
     <path
        id="header-normal-bottomright"
        d="m90 116.88h-6v6h6z"
        opacity=".12"
-       style="fill:#4d4d4d;fill-opacity:1;opacity:1" />
+       style="fill:#666666;fill-opacity:1;opacity:1" />
     <path
        id="header-normal-left"
        d="m90 110.88v-6h-6v6z"
        opacity=".01"
-       style="fill:#4d4d4d;fill-opacity:1;opacity:1" />
+       style="fill:#666666;fill-opacity:1;opacity:1" />
     <path
        id="header-normal-right"
        d="m84 110.88v-6h-6v6z"
        opacity=".01"
-       style="fill:#4d4d4d;fill-opacity:1;opacity:1" />
+       style="fill:#666666;fill-opacity:1;opacity:1" />
   </g>
   <path
      id="header-normal-top"
      d="m78 110.88h-6v6h6z"
      opacity="0"
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1" />
+     style="opacity:1;fill:#666666;fill-opacity:1" />
   <path
      id="header-normal-topright"
      d="m84 110.88h-6v6h6z"
      opacity="0"
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1" />
+     style="opacity:1;fill:#666666;fill-opacity:1" />
   <path
      id="header-normal-topleft"
      d="m90 110.88h-6v6h6z"
      opacity="0"
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1" />
+     style="opacity:1;fill:#666666;fill-opacity:1" />
   <path
      id="header-normal"
      d="m78 110.88v-6h-6v6z"

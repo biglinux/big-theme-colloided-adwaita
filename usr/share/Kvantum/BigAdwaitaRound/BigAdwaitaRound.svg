@@ -20,9 +20,9 @@
      inkscape:pageopacity="1.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.9999999"
-     inkscape:cx="112.0625"
-     inkscape:cy="95.500001"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="101.91177"
+     inkscape:cy="108.71767"
      inkscape:window-width="2048"
      inkscape:window-height="1083"
      inkscape:window-x="0"
@@ -1082,19 +1082,19 @@
      id="header-pressed"
      d="m146 104.88h-6v6h6z"
      opacity="0"
-     style="fill:#adadad;opacity:1;fill-opacity:1" />
+     style="fill:#adadad;opacity:0.5;fill-opacity:1" />
   <path
      id="header-toggled"
      d="m124 104.88h-6v6h6z"
      fill="#000000"
      opacity=".15"
-     style="opacity:1;fill:#c3c3c3;fill-opacity:1" />
+     style="opacity:0.15;fill:#c3c3c3;fill-opacity:1" />
   <path
      id="header-focused"
      d="m108 104.88h-6v6h6z"
      fill="#000000"
      opacity=".1"
-     style="fill:#cdcdcd;opacity:1;fill-opacity:1" />
+     style="fill:#cdcdcd;opacity:0.15;fill-opacity:1" />
   <g
      id="tarrow-right-normal"
      transform="translate(-163 -248)">
