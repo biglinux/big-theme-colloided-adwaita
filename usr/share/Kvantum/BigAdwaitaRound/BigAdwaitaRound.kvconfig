@@ -101,7 +101,7 @@ drag_from_buttons=false
 //window.text.color=rgba(0,0,0,0.8)
 //inactive.window.text.color=#5e5c64
 //button.text.color=rgba(0,0,0,0.8)
-//disabled.text.color=#9a9996
+disabled.text.color=#9a9996
 //highlight.text.color=#000000
 //inactive.highlight.text.color=#ffffff
 
