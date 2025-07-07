@@ -4,7 +4,7 @@
    height="1e3"
    version="1"
    id="svg414"
-   sodipodi:docname="BigAdwaitaRoundLibreOfficeDark.svg"
+   sodipodi:docname="BigAdwaitaRoundDark.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,11 +20,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.3536782"
-     inkscape:cx="94.354794"
-     inkscape:cy="96.479548"
-     inkscape:window-width="2048"
-     inkscape:window-height="1083"
+     inkscape:zoom="1.5884196"
+     inkscape:cx="-32.107386"
+     inkscape:cy="-0.94433489"
+     inkscape:window-width="2560"
+     inkscape:window-height="1260"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3547,7 +3547,7 @@
        fill="#fff"
        fill-opacity=".1"
        id="path189"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.1" />
+       style="fill:#808080;fill-opacity:1;opacity:0.2" />
   </g>
   <g
      id="button-normal-top"
@@ -3560,7 +3560,7 @@
        fill="#fff"
        fill-opacity=".1"
        id="rect190"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.1" />
+       style="fill:#808080;fill-opacity:1;opacity:0.2" />
   </g>
   <g
      id="button-normal"
@@ -3573,7 +3573,7 @@
        fill="#fff"
        fill-opacity=".1"
        id="rect191"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.1" />
+       style="fill:#808080;fill-opacity:1;opacity:0.2" />
   </g>
   <use
      id="button-normal-topright"
@@ -3626,7 +3626,7 @@
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
        fill="#404040"
        id="path192"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
+       style="fill:#808080;fill-opacity:1;opacity:0.4" />
   </g>
   <g
      id="button-focused-top"
@@ -3638,7 +3638,7 @@
        height="6"
        fill="#404040"
        id="rect193"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
+       style="fill:#808080;fill-opacity:1;opacity:0.4" />
   </g>
   <g
      id="button-focused"
@@ -3650,7 +3650,7 @@
        height="26"
        fill="#404040"
        id="rect194"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
+       style="fill:#808080;fill-opacity:1;opacity:0.4" />
   </g>
   <use
      id="button-focused-topright"
@@ -3703,7 +3703,7 @@
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
        fill="#646464"
        id="path195"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.25" />
+       style="fill:#808080;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="button-pressed-top"
@@ -3715,7 +3715,7 @@
        height="6"
        fill="#646464"
        id="rect196"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.25" />
+       style="fill:#808080;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="button-pressed"
@@ -3727,7 +3727,7 @@
        height="26"
        fill="#646464"
        id="rect197"
-       style="fill:#ffffff;fill-opacity:1;opacity:0.25" />
+       style="fill:#808080;fill-opacity:1;opacity:0.5" />
   </g>
   <use
      id="button-pressed-topright"
@@ -3779,7 +3779,7 @@
     <path
        d="m1-80c-3.324 0-6 2.676-6 6h6z"
        fill="#404040"
-       style="paint-order:markers stroke fill;fill:#ffffff;fill-opacity:1;opacity:0.15"
+       style="paint-order:markers stroke fill;fill:#808080;fill-opacity:1;opacity:0.3"
        id="path198" />
   </g>
   <g
@@ -3791,7 +3791,7 @@
        width="26"
        height="6"
        fill="#404040"
-       style="paint-order:markers stroke fill;fill:#ffffff;fill-opacity:1;opacity:0.15"
+       style="paint-order:markers stroke fill;fill:#808080;fill-opacity:1;opacity:0.3"
        id="rect199" />
   </g>
   <g
@@ -3803,7 +3803,7 @@
        width="26"
        height="26"
        fill="#404040"
-       style="paint-order:markers stroke fill;fill:#ffffff;fill-opacity:1;opacity:0.15"
+       style="paint-order:markers stroke fill;fill:#808080;fill-opacity:1;opacity:0.3"
        id="rect200" />
   </g>
   <use
